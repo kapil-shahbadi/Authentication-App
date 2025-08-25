@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 8080;
 
 // ✅ Allowed origins
 const allowedOrigins = [
-  "https://authentication-app-eight.vercel.app", // ✅ correct frontend domain
+  "https://authentication-app-ui-beryl.vercel.app", // ✅ correct frontend domain
   "http://localhost:5173" // ✅ Vite dev server
 ];
 
