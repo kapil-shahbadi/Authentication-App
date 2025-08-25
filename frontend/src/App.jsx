@@ -1,8 +1,8 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Login from './pages/Login';
-import Signup from './pages/Signup';
-import Home from './pages/Home';
+import Login from './Pages/Login';
+import Signup from './Pages/Signup';
+import Home from './Pages/Home';
 import { useState } from 'react';
 import RefrshHandler from './RefrshHandler';
 function App() {
