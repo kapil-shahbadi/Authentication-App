@@ -12,8 +12,8 @@ const PORT = process.env.PORT || 8080;
 
 // ✅ Allowed origins
 const allowedOrigins = [
-  "https://authentication-app-website.vercel.app", // tumhara frontend (Vercel)
-  "http://localhost:5173" // Vite dev server
+  "https://authentication-app-eight.vercel.app", // ✅ correct frontend domain
+  "http://localhost:5173" // ✅ Vite dev server
 ];
 
 // ✅ CORS setup
